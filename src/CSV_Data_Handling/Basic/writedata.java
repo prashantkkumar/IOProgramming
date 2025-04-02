@@ -14,6 +14,8 @@ public class writedata {
             writer.write("ID,Name,Department,Salary\n");
             writer.write("104,Alice Williams,Finance,62000\n");
             writer.write("105,Bob Johnson,Sales,58000\n");
+            writer.write("99,Prashant,Sales,333322\n");
+            writer.write("105,Bob ggg,IT,7889\n");
             System.out.println("CSV file written successfully!");
         } catch (IOException e) {
             e.printStackTrace();
