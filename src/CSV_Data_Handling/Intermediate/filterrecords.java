@@ -28,9 +28,9 @@ public class filterrecords {
                 }
             }
         } catch (IOException e) {
-            System.err.println("Error reading the file: " + e.getMessage());
+            System.err.println("Error reading the file " + e.getMessage());
         } catch (NumberFormatException e) {
-            System.err.println("Invalid number format in CSV.");
+            System.err.println("Invalid number format in CSV");
         }
     }
 }
