@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Rahul Patel",
+      "age": 21,
+      "email": "rahul.patel@example.com"
+    },
+    {
+      "name": "Nazim Khan",
+      "age": 22,
+      "email": "nazim.khan@example.com"
+    },
+    {
+      "name": "Sneha Sharma",
+      "age": 27,
+      "email": "sneha.sharma@example.com"
+    },
+    {
+      "name": "Vikram Singh",
+      "age": 24,
+      "email": "vikram.singh@example.com"
+    },
+    {
+      "name": "Priya Desai",
+      "age": 25,
+      "email": "priya.desai@example.com"
+    }
+  ]
+}
